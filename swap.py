@@ -1,0 +1,5 @@
+a=input("enter the first number")
+b=input("enter the second number")
+a=int(a)+int(b)
+b=int(a)-int(b)
+print("swapped number is :",a,b)
