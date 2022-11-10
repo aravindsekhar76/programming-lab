@@ -1,4 +1,7 @@
 a=input("Enter A List of Firstnames : ")
-a=a.split(" ")
-b=[x for x in a if "a" in x]
-print("No of Firstnames containing The letter A is : ",len(b))
+b=0
+for i in a:
+    if i=='a' or i=='A':
+        b=b+1
+print("Number of Occurrences of A in Given Firstnames : ",b)        
+   
