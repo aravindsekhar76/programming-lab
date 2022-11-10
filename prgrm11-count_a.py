@@ -1,4 +1,3 @@
-
 a=input("Enter A List of Firstnames : ")
 a=a.split(" ")
 b=[x for x in a if "a" in x]
