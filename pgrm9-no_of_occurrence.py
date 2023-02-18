@@ -1,4 +1,4 @@
-a=input("Enter A Sentence : ")
+a=input("Enter A Sentence : "
 a=a.split(" ")
 b=[]
 for i in a:
