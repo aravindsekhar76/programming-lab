@@ -1,0 +1,6 @@
+hai
+welcome
+hello
+everyone
+python
+java
