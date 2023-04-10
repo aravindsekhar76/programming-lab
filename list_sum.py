@@ -1,4 +1,4 @@
-a=input("Enter Elements of A : ")
+a=input("Enter Elements of A : "
 a=a.split(" ")
 int_a=[]
 for i in a:
